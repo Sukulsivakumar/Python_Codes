@@ -1,0 +1,6 @@
+A= int(input("Enter The Distance: "))
+print("Km in Meters:   ",A*1000)
+print("Km in CM:     ",A*100000)
+print("Km in MM:     ",A*1000000)
+print("Km in Feet:   ",A*3280.84)
+print("Km in Inches: ",A*39370.1)
